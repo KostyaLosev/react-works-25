@@ -1,6 +1,6 @@
-import FooterBrand from "./footerBrand/footerBrand";
-import FooterLinks from "./footerLinks/footerLinks";
-import FooterBottom from "./footerBottom/footerBottom";
+import FooterBrand from "./footerBrand/FooterBrand";
+import FooterLinks from "./footerLinks/FooterLinks";
+import FooterBottom from "./footerBottom/FooterBottom";
 import styles from "./footer.module.css";
 
 const Footer = () => {

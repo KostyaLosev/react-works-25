@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import styles from "./items.module.css";
 import { fetchMeals } from "../../../services/api";
-import SeeMoreButton from "../seeMoreButton/seeMoreButton";
-import Categories from "../categories/categories"; 
+import SeeMoreButton from "../seeMoreButton/SeeMoreButton";
+import Categories from "../categories/Categories"; 
 
 const Items = ({ incrementCart }) => {
     const [itemsData, setItemsData] = useState([]);

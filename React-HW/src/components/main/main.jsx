@@ -1,8 +1,7 @@
 import React from "react";
 import styles from "./main.module.css";
-import MainText from "./mainText/mainText";
-import Categories from "./categories/categories";
-import Items from "./items/items";
+import MainText from "./mainText/MainText";
+import Items from "./items/Items";
 
 const Main = ({ incrementCart }) => {
     return (
