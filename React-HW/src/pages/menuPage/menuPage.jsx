@@ -1,8 +1,8 @@
 import React from "react";
 import styles from "./menuPage.module.css"
-import Footer from "../../components/footer/footer";
-import Header from "../../components/header/header";
-import Main from "../../components/main/main";
+import Footer from "../../components/footer/Footer";
+import Header from "../../components/header/Header";
+import Main from "../../components/main/Main";
 
 const MenuPage = () =>{
     return (

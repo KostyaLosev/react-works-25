@@ -1,9 +1,9 @@
 import React from "react";
 import styles from "./main.module.css"
-import MainText from "./mainText/mainText";
-import Categories from "./categories/categories";
-import Items from "./items/items";
-import SeeMoreButton from "./seeMoreButton/seeMoreButton";
+import MainText from "./mainText/MainText";
+import Categories from "./categories/Categories";
+import Items from "./items/Items";
+import SeeMoreButton from "./seeMoreButton/SeeMoreButton";
 
 const Main = () => {
     return (
