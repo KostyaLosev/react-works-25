@@ -1,3 +1,4 @@
+
 import React, {Component} from "react";
 import MenuPage from "./pages/menuPage/menuPage"
 
@@ -10,6 +11,7 @@ class App extends Component {
         </div>
     )
 }
+
 }
 
 export default App;
