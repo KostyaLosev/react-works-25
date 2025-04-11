@@ -1,13 +1,17 @@
-import React from "react";
+
+import React, {Component} from "react";
 import MenuPage from "./pages/menuPage/menuPage"
 
-const App = () => {
+class App extends Component {
+    render() {
     return (
         
         <div>
             <MenuPage/>
         </div>
     )
+}
+
 }
 
 export default App;

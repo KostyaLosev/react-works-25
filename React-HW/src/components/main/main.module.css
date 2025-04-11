@@ -2,7 +2,8 @@
     background-color: #F5FBFC;
     padding: 40px 20px;
     text-align: center;
-    clip-path: polygon(0 5%, 100% 0, 100% 100%, 0% 100%);
+
+    clip-path: polygon(0 2vw, 100% 0, 100% 100%, 0% 100%);
 }
 
 @media (max-width: 1024px) {
